@@ -378,7 +378,7 @@ header .header2 h3 {
 }
 
 .daily-planner-fullpage h2 {
-  font-size: 70px;
+  font-size: 40px;
 }
 
 .daily-planner-fullpage .day-planner {
@@ -387,7 +387,7 @@ header .header2 h3 {
   margin-top: 40px;
   width: 100%;
   border-radius: 10px;
-  padding: 30px;
+  padding: 20px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -419,7 +419,7 @@ header .header2 h3 {
   top: 12%;
   left: 2%;
   color: var(--tri1);
-  font-size: 16px;
+  font-size: 15px;
 }
 
 .day-planner .day-planner-time input {
@@ -428,7 +428,7 @@ header .header2 h3 {
   background-color: var(--sec);
   border-radius: 5px;
   border: none;
-  font-size: 35px;
+  font-size: 25px;
   padding-top: 34px;
   outline: none;
 }
@@ -449,7 +449,7 @@ header .header2 h3 {
 
 .motivational-fullpage .motivation-container {
   height: 600px;
-  width: 80%;
+  width: 70%;
   border-radius: 50px;
   position: relative;
 }
@@ -494,7 +494,7 @@ header .header2 h3 {
   background-color: var(--tri2);
   padding: 30px;
   border-radius: 20px;
-  font-size: 40px;
+  font-size: 25px;
   width: -webkit-fit-content;
   width: -moz-fit-content;
   width: fit-content;
@@ -561,13 +561,13 @@ header .header2 h3 {
 }
 
 .pomo-timer h1 {
-  font-size: 170px;
+  font-size: 100px;
 }
 
 .pomo-timer button {
   background-color: var(--tri2);
-  padding: 15px 40px;
-  font-size: 32px;
+  padding: 10px 20px;
+  font-size: 25px;
   margin: 10px;
   border-radius: 5px;
   border: none;
@@ -593,7 +593,7 @@ header .header2 h3 {
   transform: translate(-50%, 0);
   background-color: var(--green);
   padding: 15px 30px;
-  font-size: 30px;
+  font-size: 20px;
   border-radius: 5px;
 }
 
