@@ -16,5 +16,9 @@ function openFeatures() {
   });
 }
 
+
+
+
+
 // Open and close feature
 openFeatures();
