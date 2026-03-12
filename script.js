@@ -274,6 +274,7 @@ function weatherFunctionality() {
     }
   }
 
+  
   setInterval(() => {
     timeDate();
   }, 1000);
