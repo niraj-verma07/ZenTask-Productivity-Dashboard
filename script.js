@@ -11,6 +11,7 @@ function openFeatures() {
     });
   });
 
+  
   fullElemPageBackBtn.forEach(function (back) {
     back.addEventListener("click", function () {
       fullElemPage[back.id].style.display = "none";
